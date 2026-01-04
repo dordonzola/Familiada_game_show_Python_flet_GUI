@@ -24,13 +24,21 @@ The project focuses on game logic, UI state management, and event-driven program
 - asyncio / threading
 
 📁 Project Structure
+
 .
+
 ├── main.py
+
 ├── questions.json
+
 ├── intro.mp3
+
 ├── correct.mp3
+
 ├── wrong.mp3
+
 └── README.md
+
 
 ▶️ Run the App
 
@@ -41,16 +49,25 @@ pip install flet playsound3
 Run:
 python main.py
 
+
 📄 questions.json Format
-{
+
+
+
   "Question?": {
+
     "answer 1": 30,
+    
     "answer 2": 25,
+    
     "answer 3": 20,
+    
     "answer 4": 15,
+    
     "answer 5": 10
+  
   }
-}
+
 
 🚀 Status
 
