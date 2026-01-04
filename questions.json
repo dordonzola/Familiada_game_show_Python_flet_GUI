@@ -1,0 +1,205 @@
+{
+  "Co znajduje się w łazience?": {
+    "mydło": 40,
+    "szampon": 30,
+    "ręcznik": 15,
+    "szczoteczka": 10,
+    "lustro": 5
+  },
+  "Czego używamy do sprzątania domu?": {
+    "odkurzacz": 45,
+    "mop": 25,
+    "ściereczka": 15,
+    "płyn do mycia": 10,
+    "miotła": 5
+  },
+  "Co pijemy rano?": {
+    "kawę": 50,
+    "herbatę": 30,
+    "wodę": 10,
+    "sok": 7,
+    "mleko": 3
+  },
+  "Co zabieramy na wakacje?": {
+    "ubrania": 45,
+    "kosmetyki": 25,
+    "telefon": 15,
+    "ładowarkę": 10,
+    "dokumenty": 5
+  },
+  "Co znajduje się w portfelu?": {
+    "pieniądze": 50,
+    "karty": 25,
+    "dowód": 15,
+    "paragony": 7,
+    "zdjęcia": 3
+  },
+  "Co robimy po przebudzeniu?": {
+    "wstajemy": 35,
+    "myjemy się": 30,
+    "pijemy kawę": 20,
+    "ścielimy łóżko": 10,
+    "sprawdzamy telefon": 5
+  },
+  "Co można kupić w piekarni?": {
+    "chleb": 50,
+    "bułki": 25,
+    "drożdżówkę": 15,
+    "ciasto": 7,
+    "bagietkę": 3
+  },
+  "Co kojarzy się z zimą?": {
+    "śnieg": 45,
+    "mróz": 25,
+    "narty": 15,
+    "czapka": 10,
+    "bałwan": 5
+  },
+  "Co można zgubić?": {
+    "klucze": 40,
+    "telefon": 30,
+    "portfel": 15,
+    "okulary": 10,
+    "pilota": 5
+  },
+  "Co robimy w pracy?": {
+    "pracujemy": 40,
+    "rozmawiamy": 20,
+    "piszemy": 15,
+    "siedzimy": 15,
+    "pijemy kawę": 10
+  },
+  "Co znajduje się w kuchni?": {
+    "lodówka": 45,
+    "kuchenka": 25,
+    "zlewozmywak": 15,
+    "garnki": 10,
+    "talerze": 5
+  },
+  "Co nosimy zimą?": {
+    "kurtkę": 45,
+    "czapkę": 25,
+    "szalik": 15,
+    "rękawiczki": 10,
+    "buty": 5
+  },
+  "Co robimy w weekend?": {
+    "odpoczywamy": 35,
+    "sprzątamy": 25,
+    "spotykamy się": 20,
+    "oglądamy TV": 15,
+    "śpimy": 5
+  },
+  "Co jest okrągłe?": {
+    "piłka": 40,
+    "koło": 25,
+    "talerz": 15,
+    "zegarek": 10,
+    "moneta": 5
+  },
+  "Co można usmażyć?": {
+    "jajko": 45,
+    "kotleta": 25,
+    "naleśniki": 15,
+    "rybę": 10,
+    "placki": 5
+  },
+  "Co robimy przed snem?": {
+    "myjemy zęby": 35,
+    "oglądamy telefon": 25,
+    "czytamy": 20,
+    "myjemy się": 15,
+    "gasimy światło": 5
+  },
+  "Co może być słodkie?": {
+    "czekolada": 45,
+    "ciasto": 25,
+    "cukier": 15,
+    "miód": 10,
+    "cukierek": 5
+  },
+  "Co mamy w samochodzie?": {
+    "fotel": 30,
+    "kierownicę": 25,
+    "radio": 20,
+    "apteczkę": 15,
+    "koło zapasowe": 10
+  },
+  "Co robimy na weselu?": {
+    "tańczymy": 40,
+    "jemy": 30,
+    "śpiewamy": 15,
+    "pijemy": 10,
+    "robimy zdjęcia": 5
+  },
+  "Co jest głośne?": {
+    "samolot": 35,
+    "muzyka": 30,
+    "koncert": 20,
+    "klakson": 10,
+    "pies": 5
+  },
+  "Co można znaleźć w lesie?": {
+    "drzewa": 45,
+    "grzyby": 25,
+    "zwierzęta": 15,
+    "liście": 10,
+    "szyszki": 5
+  },
+  "Co robimy na siłowni?": {
+    "ćwiczymy": 50,
+    "biegamy": 20,
+    "rozciągamy się": 15,
+    "podnosimy ciężary": 10,
+    "odpoczywamy": 5
+  },
+  "Co może się zepsuć?": {
+    "samochód": 35,
+    "komputer": 30,
+    "telefon": 20,
+    "lodówka": 10,
+    "zegarek": 5
+  },
+  "Co można ugotować?": {
+    "zupę": 45,
+    "makaron": 25,
+    "ryż": 15,
+    "kartofle": 10,
+    "warzywa": 5
+  },
+  "Co robimy na plaży?": {
+    "opalanie": 40,
+    "pływanie": 30,
+    "leżenie": 15,
+    "spacer": 10,
+    "gry": 5
+  },
+  "Co jest mokre?": {
+    "woda": 45,
+    "deszcz": 25,
+    "ręcznik": 15,
+    "basen": 10,
+    "ubrania": 5
+  },
+  "Co może być ostre?": {
+    "nóż": 40,
+    "papryka": 25,
+    "igła": 15,
+    "nożyczki": 10,
+    "szkło": 5
+  },
+  "Co mamy w lodówce?": {
+    "mleko": 35,
+    "jajka": 25,
+    "ser": 20,
+    "wędlinę": 15,
+    "masło": 5
+  },
+  "Co robimy na urodzinach?": {
+    "świętujemy": 40,
+    "jemy tort": 30,
+    "dostajemy prezenty": 20,
+    "śpiewamy": 5,
+    "tańczymy": 5
+  }
+}
